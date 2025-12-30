@@ -220,10 +220,10 @@
                             <!-- Color System -->
                             <div class="row">
                                 <div class="col-lg-6 mb-4">
-                                    <div class="card bg-primary text-white shadow">
+                                    <div class="card text-white shadow" style="background-color: #dc3545;">
                                         <div class="card-body">
                                             Primary
-                                            <div class="text-white-50 small">#4e73df</div>
+                                            <div class="text-white-50 small">#dc3545</div>
                                         </div>
                                     </div>
                                 </div>
@@ -284,8 +284,6 @@
                                     </div>
                                 </div>
                             </div>
-
-                        </div>
 
                         <div class="col-lg-6 mb-4">
 
